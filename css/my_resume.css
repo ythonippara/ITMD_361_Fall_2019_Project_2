@@ -5,5 +5,7 @@ text-align: left;
 }
 
 .resume_section { color: #3C5148;
- text_align: left;
+font-style: normal;
+font-weight: 400;
+text_align: left;
 }
