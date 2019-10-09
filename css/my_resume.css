@@ -4,9 +4,18 @@ font-family: Cormorant Garamond;
 text-align: left;
 }
 
+h1 { color: #1b2726;
+font-family: Cormorant Garamond;
+font-style: italic;
+font-weight notmal;
+font-size: 15px;
+text_align: center;
+}
+
 h2 { color: #3C5148;
 font-family: Cormorant Garamond;
 font-style: normal;
 font-weight: 400;
+font-size: 14px;
 text_align: left;
 }
