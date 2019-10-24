@@ -1,12 +1,24 @@
-body { background-color: #d5ddde;
-color: #1b2726;
-font-family: Cormorant Garamond;
-text-align: left;
+body { 
+  background-color: #d5ddde;
+  color: #1b2726;
+  font-family: Cormorant Garamond;
+  text-align: left;
 }
 
-h1 { color: #1b2726;
-font-family: Cormorant Garamond;
-font-style: italic;
-font-weight normal;
-text_align: center;
+h1 { 
+  color: #1b2726;
+  font-family: Cormorant Garamond;
+  font-style: italic;
+  font-weight normal;
+  text_align: center;
 }
+
+ul {
+  list-style-type: none;
+}
+
+ul li {
+  float: left;
+}
+
+
