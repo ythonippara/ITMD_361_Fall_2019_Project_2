@@ -22,6 +22,7 @@ header {
 }
 
 footer {
+  color:
   position: fixed;
   bottom: 0px;
   left: 0px;
@@ -37,7 +38,7 @@ footer {
 
 #main_content {
   float: right;
-  position: relative;
+  position: absolute;
   right: 1%;
   left: 1%;
   padding: 10px;
@@ -47,7 +48,7 @@ footer {
 
 #side_bar {
   float: left;
-  position: relative;
+  position: absolute;
   right: 1%;
   left: 1%;
   padding: 10px;
@@ -86,6 +87,5 @@ ul li {
 
 ul li a {
   display: block;
-  text-decoration: none;
   color: #FFFFFF;
 }
