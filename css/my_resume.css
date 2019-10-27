@@ -1,8 +1,17 @@
 body { 
-  background-color: #DBDBE5;
+  background-color: #A5B7C1;
   color: #535D55;
   font-family: 'Cormorant Garamond', serif;
   text-align: left;
+}
+
+header footer {
+  background-color: #514644;
+  color: #FFFFFF;
+}
+
+main aside { 
+   background-color: #DBDBE5;
 }
 
 h1 { 
