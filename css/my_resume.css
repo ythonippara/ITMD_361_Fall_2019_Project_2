@@ -22,7 +22,7 @@ header {
 }
 
 footer {
-  position: relative;
+  position: fixed;
   bottom: 0px;
   left: 0px;
   padding: 10px;
@@ -38,7 +38,6 @@ footer {
 #main_content {
   float: right;
   position: relative;
-  top: auto;
   right: 1%;
   left: 1%;
   padding: 10px;
@@ -49,7 +48,6 @@ footer {
 #side_bar {
   float: left;
   position: relative;
-  top: auto;
   right: 1%;
   left: 1%;
   padding: 10px;
