@@ -7,6 +7,7 @@ body {
 }
 
 .small_box {
+  width 100%;
   background-color: #514644;
   color: #FFFFFF;
 }
@@ -26,6 +27,7 @@ header {
 }
 
 #main_content {
+  float: right:
   position: relative;
   top: auto;
   right: 0px;
@@ -35,6 +37,7 @@ header {
 }
 
 #side_bar {
+  float: left;
   position: relative;
   top: auto;
   left: 0px;
