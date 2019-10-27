@@ -1,19 +1,27 @@
-body { background-color: #d5ddde;
-color: #1b2726;
-font-family: Cormorant Garamond;
-text-align: left;
+body { 
+  background-color: #DBDBE5;
+  color: #535D55;
+  font-family: 'Cormorant Garamond', serif;
+  text-align: left;
 }
 
-h1 { color: #1b2726;
-font-family: Cormorant Garamond;
-font-style: italic;
-font-weight normal;
-text_align: center;
+h1 { 
+  color: #535D55;
+  font-family: 'Cormorant Garamond', serif;
+  font-style: italic;
+  font-weight: normal;
+  text_align: center;
 }
 
-h2 { color: #3C5148;
-font-family: Cormorant Garamond;
-font-style: normal;
-font-weight: 400;
-text_align: left;
+h2 { 
+  color: #535D55;
+  font-family: 'Cormorant Garamond', serif;
+  font-style: normal;
+  font-weight: 400;
+  text_align: left;
+}
+
+p { 
+  font-family: 'Proza Libre', sans-serif;
+  color: #514644;
 }
