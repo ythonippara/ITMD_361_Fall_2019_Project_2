@@ -25,3 +25,16 @@ p {
   font-family: 'Proza Libre', sans-serif;
   color: #514644;
 }
+
+ul {
+  list-style-type: none;
+}
+
+ul li {
+  float: left;
+}
+
+ul li a {
+  display: block;
+  text-decoration: none;
+}
