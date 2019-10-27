@@ -11,8 +11,36 @@ body {
   color: #FFFFFF;
 }
 
+header {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  padding: 10px;
+  margin: 0px;
+  width: 940px;
+  height: auto;
+}
+  
 .big_box { 
    background-color: #DBDBE5;
+}
+
+#main_content {
+  position: absolute;
+  top: auto;
+  right: 0px;
+  padding: 10px;
+  margin: 0px;
+  width: 620px;
+}
+
+#side_bar {
+  position: absolute;
+  top: auto;
+  left: 0px;
+  padding: 10px;
+  margin: 0px;
+  width: 300px;
 }
 
 h1 { 
