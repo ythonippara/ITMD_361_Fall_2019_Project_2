@@ -36,22 +36,22 @@ footer {
 
 #main_content {
   float: right;
-  position: absolute;
+  position: fixed;
   top: auto;
-  right: 0px;
+  right: 2%;
   padding: 10px;
   margin: 0px;
-  width: 620px;
+  width: 62%;
 }
 
 #side_bar {
   float: left;
-  position: absolute;
+  position: fixed;
   top: auto;
-  left: 0px;
+  left: 2%;
   padding: 10px;
   margin: 0px;
-  width: 300px;
+  width: 32%;
 }
 
 h1 { 
