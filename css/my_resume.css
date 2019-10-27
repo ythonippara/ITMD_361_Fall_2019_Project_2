@@ -5,12 +5,12 @@ body {
   text-align: left;
 }
 
-header footer {
+.small_box {
   background-color: #514644;
   color: #FFFFFF;
 }
 
-main aside { 
+.big_box { 
    background-color: #DBDBE5;
 }
 
