@@ -1,5 +1,5 @@
 body { 
-  width: 940px;
+  width: 100%;
   background-color: #A5B7C1;
   color: #535D55;
   font-family: 'Cormorant Garamond', serif;
@@ -7,7 +7,6 @@ body {
 }
 
 .small_box {
-  width 100%;
   background-color: #514644;
   color: #FFFFFF;
 }
@@ -18,7 +17,17 @@ header {
   left: 0px;
   padding: 10px;
   margin: 0px;
-  width: 940px;
+  width: 100%;
+  height: auto;
+}
+
+footer {
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+  padding: 10px;
+  margin: 0px;
+  width: 100%;
   height: auto;
 }
   
@@ -28,7 +37,7 @@ header {
 
 #main_content {
   float: right:
-  position: relative;
+  position: absolute;
   top: auto;
   right: 0px;
   padding: 10px;
@@ -38,7 +47,7 @@ header {
 
 #side_bar {
   float: left;
-  position: relative;
+  position: absolute;
   top: auto;
   left: 0px;
   padding: 10px;
