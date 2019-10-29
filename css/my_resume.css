@@ -2,7 +2,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
-  max-width: 100em;
+  max-width: 80em;
   min-height: 100vh;
   background-color: #A5B7C1;
   text-align: left;
@@ -49,12 +49,12 @@ main {
 }
 
 article {
-  flex-grow: 3;
+  flex-grow: 3.5;
   border: 1px solid black;
 }
 
 aside {
-  flex-grow: 1;
+  flex-grow: .5;
   border: 1px solid black;
 }
 
