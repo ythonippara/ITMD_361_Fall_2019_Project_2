@@ -1,7 +1,7 @@
 body { 
   display: flex;
   flex-direction: column;
-  justify-content: flex-start;
+  justify-content: center;
   max-width: 80em;
   min-height: 100vh;
   background-color: #A5B7C1;
