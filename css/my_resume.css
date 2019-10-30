@@ -3,10 +3,9 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  max-width: 90em;
+  max-width: 100%;
   min-height: 100vh;
   background-color: #A5B7C1;
-  text-align: left;
 }
 
 .container {
@@ -108,4 +107,5 @@ h2 {
 p { 
   font-family: 'Proza Libre', sans-serif;
   color: #514644;
+  text-align: justify;
 }
