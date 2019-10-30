@@ -109,3 +109,14 @@ p {
   color: #514644;
   text-align: justify;
 }
+
+aside ul li {
+  list-style-type: none;
+  text-decoration: none;
+}
+ 
+.skillbox {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
