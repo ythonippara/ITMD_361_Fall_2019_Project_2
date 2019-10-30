@@ -22,13 +22,25 @@ nav {
 nav ul {
   display: flex;
   justify-content: flex-start;
-  list-style-type: none;
+  margin-top: .75em;
+  margin-right: 2em;
+  margin-bottom: 1em;
+  margin-left: 2em;
+  padding-top: .75em;
+  padding-bottom: .75em;
   padding-left: .5em;
+  list-style-type: none;
+  text-align: center;
 }
 
 nav li {
-  paading-right: 1.5em;
+  display: inline-block;
+  padding-right: 1em;
   color: #FFFFFF;
+}
+
+nav li:first-child {
+  padding-left: 1em;
 }
 
 footer {
