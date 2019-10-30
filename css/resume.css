@@ -109,6 +109,7 @@ p {
 aside ul li {
   list-style-type: none;
   text-decoration: none;
+  margin: 0;
 }
  
 .skillbox {
