@@ -12,7 +12,7 @@ body {
 .container {
   display: flex;
   flex-direction: column;
-  max-width: 1140px;
+  max-width: 1920px;
 }
 
 header {
@@ -28,7 +28,7 @@ nav {
 
 nav ul {
   display: flex;
-  justify-content: center;
+  justify-content: flex-start;
   margin-top: .75em;
   margin-right: 2em;
   margin-bottom: 1em;
@@ -37,7 +37,7 @@ nav ul {
   padding-bottom: .75em;
   padding-left: .5em;
   list-style-type: none;
-  text-align: left;
+  text-align: center;
 }
 
 nav li {
@@ -73,7 +73,6 @@ article {
   flex-grow: 2;
   flex-shrink: 0;
   flex-basis: 300px;
-  border: 1px solid black;
   padding-right: 1em;
   padding-left: 1em;
 }
@@ -82,21 +81,12 @@ aside {
   flex-grow: 1;
   flex-shrink: 0;
   flex-basis: 150px;
-  border: 1px solid black;
   padding-right: 1em;
   padding-left: 1em;
 }
 
 .big_box { 
    background-color: #DBDBE5;
-}
-
-#main_content {
- 
-}
-
-#side_bar {
-  
 }
 
 h1 { 
