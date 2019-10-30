@@ -43,6 +43,9 @@ nav ul {
 nav li {
   display: inline-block;
   padding-right: 1em;
+  border: 1px solid white;
+  border-radius: 5px;
+  text-decoration: none;
   color: #FFFFFF;
 }
 
