@@ -106,7 +106,7 @@ h2 {
 
 p { 
   font-family: 'Proza Libre', sans-serif;
-  color: #514644;
+  color: #A5B7C1;
   text-align: justify;
 }
 
@@ -118,5 +118,11 @@ aside ul li {
 .skillbox {
   display: flex;
   flex-direction: row;
-  justify-content: space-around;
+  justify-content: flex-start;
+}
+
+.item {
+  padding-right: 1em;
+  border: 1px solid #A5B7C1;
+  border-radius: 5px;
 }
