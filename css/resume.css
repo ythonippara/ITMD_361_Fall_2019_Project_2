@@ -55,7 +55,6 @@ footer {
 
 .small_box {
   background-color: #514644;
-  color: #FFFFFF;
 }
 
 main {
@@ -104,6 +103,10 @@ p {
   font-family: 'Proza Libre', sans-serif;
   color: #514644;
   text-align: justify;
+}
+
+.notes {
+  color: #FFFFFF;
 }
 
 aside ul li {
