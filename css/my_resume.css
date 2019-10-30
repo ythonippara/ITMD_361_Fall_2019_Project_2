@@ -2,6 +2,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  align-items: center;
   max-width: 80em;
   min-height: 100vh;
   background-color: #A5B7C1;
