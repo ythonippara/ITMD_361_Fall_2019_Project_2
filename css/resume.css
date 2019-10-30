@@ -17,12 +17,8 @@ body {
 header {
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: flex-start;
   padding: 1em;
-}
-
-nav {
-  padding: .5em;
 }
 
 nav ul {
@@ -96,7 +92,7 @@ h1 {
   text_align: center;
 }
 
-h2 { 
+h2 h3 { 
   color: #535D55;
   font-family: 'Cormorant Garamond', serif;
   font-style: normal;
@@ -122,7 +118,7 @@ aside ul li {
 }
 
 .item {
-  padding-right: 1em;
+  margin-right: 1em;
   border: 1px solid #A5B7C1;
   border-radius: 5px;
 }
