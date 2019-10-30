@@ -7,8 +7,6 @@ body {
   min-height: 100vh;
   background-color: #A5B7C1;
   text-align: left;
-  padding-right: 1em;
-  padding-left: 1em;
 }
 
 .container {
@@ -69,6 +67,8 @@ main {
   display: flex;
   flex-wrap: wrap;
   flex-grow: 1;
+  padding-right: 1em;
+  padding-left: 1em;
 }
 
 article {
@@ -76,7 +76,6 @@ article {
   flex-shrink: 0;
   flex-basis: 300px;
   border: 1px solid black;
-  margin-left: .5em;
 }
 
 aside {
@@ -84,7 +83,6 @@ aside {
   flex-shrink: 0;
   flex-basis: 150px;
   border: 1px solid black;
-  margin-right: .5em;
 }
 
 .big_box { 
