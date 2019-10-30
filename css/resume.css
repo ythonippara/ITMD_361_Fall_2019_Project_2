@@ -89,7 +89,7 @@ h1 {
   font-family: 'Cormorant Garamond', serif;
   font-style: italic;
   font-weight: normal;
-  text_align: center;
+  text-align: center;
 }
 
 h2 h3 { 
@@ -97,7 +97,7 @@ h2 h3 {
   font-family: 'Cormorant Garamond', serif;
   font-style: normal;
   font-weight: 400;
-  text_align: left;
+  text-align: left;
 }
 
 p { 
